@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#desktop_computer-about-the-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#art-layout-of-the-application">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-launching-the-app">Lauching the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-launching-the-app">Lauching the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#man_technologist-used-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#raising_hand_man-developer">Developer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#trophy-acknowledgment">Acknowledgment</a> 
@@ -54,7 +54,7 @@ The application only has a frontend page:
 
 </br>
 
-### :gear: Starting the Project:
+### :gear: Starting the App:
 
  ```bash
 
