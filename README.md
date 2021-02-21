@@ -9,7 +9,8 @@
 
 <p align="center">
   <a href="#desktop_computer-about-the-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-launching-the-project">Lauching the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-layout-of-the-application">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-launching-the-app">Lauching the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#man_technologist-used-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#raising_hand_man-developer">Developer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#trophy-acknowledgment">Acknowledgment</a> 
@@ -28,7 +29,7 @@
 
 </br>
 
-## :art: Layout of the WebSite:
+## :art: Layout of the Application:
 
 
  <img alt="react-quiz" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1613917069/TypeScript/ReactAppGif_l25ydo.gif">
@@ -100,7 +101,7 @@ Those following tools were used in the project development:
  ## :trophy: Acknowledgment
 
 <a href="https://www.freecodecamp.org/">
- 	<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E0BAQGLKj3JHcof0w%2Fcompany-logo_200_200%2F0%2F1589990867649%3Fe%3D2159024400%26v%3Dbeta%26t%3DV8puy6s_dYMSAsGHDbhTWfKdLkqoQD5NBhIv3kkmJMQ&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fschool%2Ffree-code-camp%2F&tbnid=pnZXAPb0zGbK5M&vet=12ahUKEwiN0vzTmvvuAhW-M7kGHUTBB5gQMygCegUIARCbAQ..i&docid=Z5oQ85w8RI6u2M&w=200&h=200&q=free%20code%20camp&ved=2ahUKEwiN0vzTmvvuAhW-M7kGHUTBB5gQMygCegUIARCbAQ" width="300px;" alt="freeCodeCamp-logo"/>
+ 	<img src="https://sdpc.a4l.org/logos/fcc_primary_small.jpg" width="300px;" alt="freeCodeCamp-logo"/>
  </a> 
  <br />
  	<p>Course ministered by: <a href="https://www.youtube.com/user/Weibenfalk"><b>Weiben Falk</b></a></p>
